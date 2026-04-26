@@ -17,7 +17,7 @@ def build_standard_circuit(theta, phi):
     Parameters
     ----------
     theta, phi : float
-        Define input state |ψ⟩
+        Define input state |phi⟩
 
     Returns
     -------
