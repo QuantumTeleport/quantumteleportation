@@ -116,7 +116,7 @@ for name, data in backend_data.items():
 
     plt.figure()  # ⭐ THIS FIXES IT
     fig = plot_gate_map(backend)
-    display(fig)
+    #display(fig)
 
 
 # ## 3 · Build the Probabilistic Teleportation Circuit
