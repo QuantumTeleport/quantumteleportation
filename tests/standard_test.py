@@ -1,4 +1,4 @@
-from qteleport import build_standard_circuit
+from qteleport import build_standard_circuit, standard_fidelity
 
 qc, _ = build_standard_circuit(0.5, 1.0)
 
